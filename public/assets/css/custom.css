@@ -1,0 +1,20 @@
+.addgame{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-error
+{
+    
+    color: rgb(240, 14, 101);
+    text-align: center;
+    margin: 5px;
+    border-radius: 10px;
+
+}
+.login-message-error{
+    
+    color: rgb(110, 6, 26);
+   
+     text-align: center;border-radius: 14px;
+}
